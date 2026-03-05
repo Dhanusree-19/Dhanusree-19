@@ -1,7 +1,6 @@
 ## Hi there 👋
 
 ## Currently learning Java and Data Structures  
-## Exploring Frontend and Machine learning
 
 ## What I'm Doing
 - Practicing DSA daily to improve problem-solving
